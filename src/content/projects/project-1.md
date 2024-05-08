@@ -1,19 +1,20 @@
 ---
-title: 'Project 1'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Pagina de tutoriales'
+description: 'Desarrollo de pagina sobre tutoriales para una universidad'
 image:
-    url: '/GitHub.webp'
+    url: '/src/img/Neuuni.png'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+    url: '/src/img/Neuuni.png'
+    alt: 'Escritorio'
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
+    url: '/src/img/neuuni-cel-2.png'
+    alt: 'cel.'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: Docusaurus, React, Css
+website: https://docs.neuunieverest.com/
+github: https://github.com/RicardoAlanEscobar/documentacion
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Tutorial page for students, teachers and administrators within a university developed with docusaurus and react.
+With intuitive navigation, relevant content and useful tools, our platform provides everything you need to facilitate learning, teaching and academic management.

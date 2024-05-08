@@ -1,19 +1,19 @@
 ---
-title: 'Project 2'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Projecto Escolar'
+description: 'Desarrollo de pagina para estudiantes de mercadotecnia.'
 image:
-    url: '/GitHub.webp'
+    url: '/src/img/Ecogas.png'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/image-1.webp'
+    url: '/src/img/Ecogas.png'
     alt: 'first image of your project.'
 worksImage2:
-    url: '/image-2.webp'
+    url: '/src/img/ecogas-cel-2.png'
     alt: 'second image of your project.'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: HTML, JavaScript, Css
+website: https://ecogas-at.000webhostapp.com/
+github: No-repo
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Static company page created by marketing students for a school project created with html, css and javascript.

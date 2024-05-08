@@ -4,7 +4,7 @@ const { frontmatter } = Astro.props;
 ---
 <BaseLayout pageTitle={frontmatter.title}>
     <div class="gif">
-        <img width="300" height="259" alt="RaccoonLaptopGif" src="/laptop.webp"/>
+        <img width="250" height="250" class="ricardo-work" alt="RaccoonLaptopGif" src="/src/img/ricardo-work.jpeg"/>
     </div>
     <h2>{frontmatter.title}</h2>
     <slot />
@@ -18,5 +18,10 @@ const { frontmatter } = Astro.props;
         <img class="pro-img" width="500px" height="281" src={frontmatter.worksImage1.url} alt={frontmatter.worksImage1.alt} />
         <img class="pro-img" width="500px" height="281" src={frontmatter.worksImage2.url} alt={frontmatter.worksImage2.alt} />
     </div>
+    <style>
+     .ricardo-work{
+        border-radius: 100%;
+     }
+    </style>
 </BaseLayout>
 

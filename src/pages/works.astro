@@ -7,7 +7,7 @@ const pageTitle = "Works";
 ---
 <Layout pageTitle={pageTitle}>
     <div class="gif">
-        <img width="300" height="259" alt="RaccoonLaptopGif" src="/laptop.webp"/>
+        <img width="250" height="250" class="img-works" alt="RaccoonLaptopGif" src="/src/img/ricardo-work.jpeg"/>
     </div>
     <h2>Projects</h2>
     <ul role="list" class="link-card-grid">
@@ -18,5 +18,10 @@ const pageTitle = "Works";
             body={card.data.description}
         />)}
     </ul>
+    <style>
+        .img-works{
+            border-radius: 100%;
+        }
+    </style>
 </Layout>
 
