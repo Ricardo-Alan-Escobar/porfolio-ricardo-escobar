@@ -17,4 +17,4 @@ github: No-repo
 ---
 
 Static company page created by marketing students for a school project created with html, css and javascript.
-R-E.
+Ricardo.
