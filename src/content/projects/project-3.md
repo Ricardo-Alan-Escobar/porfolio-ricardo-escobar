@@ -11,9 +11,8 @@ worksImage2:
     url: '/image-2.webp'
     alt: 'second image of your project.'
 platform: Web
-stack: React, Laravel, SQLite
-website: In construction
+stack: React, Laravel, SQLite, Tailwind
+website: En construcció
 github: https://github.com/RicardoAlanEscobar/App-Tickets-Neuuni
 ---
-
-In construction
+Desarrollo de aplicadion de tickets vinculado a cada estudiante para un seguimiento personalizado.
