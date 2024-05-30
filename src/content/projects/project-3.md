@@ -15,4 +15,4 @@ stack: React, Laravel, SQLite, Tailwind
 website: En construcció
 github: https://github.com/RicardoAlanEscobar/App-Tickets-Neuuni
 ---
-Desarrollo de aplicadion de tickets vinculado a cada estudiante para un seguimiento personalizado.
+Development of a ticket application linked to each student for personalized monitoring.
