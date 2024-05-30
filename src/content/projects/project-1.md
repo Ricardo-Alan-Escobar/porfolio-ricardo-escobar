@@ -2,13 +2,13 @@
 title: 'Pagina de tutoriales'
 description: 'Desarrollo de pagina sobre tutoriales para una universidad'
 image:
-    url: '/src/img/Neuuni.png'
+    url: '/Neuuni.png'
     alt: 'GitHub wallpaper'
 worksImage1:
-    url: '/src/img/Neuuni.png'
+    url: '/Neuuni.png'
     alt: 'Escritorio'
 worksImage2:
-    url: '/src/img/neuuni-cel-2.png'
+    url: '/neuuni-cel-2.png'
     alt: 'cel.'
 platform: Web
 stack: Docusaurus, React, Css
